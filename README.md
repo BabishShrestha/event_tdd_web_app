@@ -1,3 +1,3 @@
-# event_example_web_app
+# event_tdd_web_app
 
 A new Flutter project.
